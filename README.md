@@ -4,7 +4,7 @@
 
 👋 E aí! Sou o Ygor, atualmente mergulhado no mundo da programação.
 
-📚 Tô aprendendo JavaScripte explorando tudo que envolve desenvolvimento web.
+📚 Tô aprendendo JavaScript e explorando tudo que envolve desenvolvimento web.
 
 💡 Gosto de transformar ideias em projetos e tô sempre buscando evoluir, um código de cada vez.
 
