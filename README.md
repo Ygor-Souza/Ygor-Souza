@@ -75,3 +75,23 @@
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
+<div>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=Ygor-Souza&show_icons=true&theme=tokyonight&include_all_commits=true" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygor-Souza&theme=tokyonight&layout=compact&langs_count=9" 
+  />
+</div>
+
+<br clear="both"/>
+
