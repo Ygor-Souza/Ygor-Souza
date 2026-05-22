@@ -1,15 +1,14 @@
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ygor-Souza&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ygor-Souza&show_icons=true&theme=tokyonight"
     height="165"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygor-Souza&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ygor-Souza&layout=compact&theme=tokyonight"
     height="165"
   />
 </p>
-
 
 </br>
 
