@@ -1,17 +1,3 @@
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ygor-Souza&show_icons=true&theme=tokyonight"
-    height="165"
-  />
-
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ygor-Souza&layout=compact&theme=tokyonight"
-    height="165"
-  />
-</p>
-
-</br>
-
 <h1 align="center">👨🏻‍💻 Ygor Souza</h1>
 
 
